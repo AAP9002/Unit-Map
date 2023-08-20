@@ -43,11 +43,11 @@ function Map() {
         }
     });
 
-    // cy.add({
-    //     group: 'nodes',
-    //     data: { weight: 75 },
-    //     position: { x: 10, y: 10 }
-    // });
+    cy.add({
+        group: 'nodes',
+        data: { weight: 75 },
+        position: { x: 10, y: 10 }
+    });
 
     return (<div className="graph"></div>);
 }
