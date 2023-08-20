@@ -1,0 +1,386 @@
+{
+    "CourseCode": "BSc (Hons) Computer Science",
+    "CourseName": "BSc (Hons) Computer Science",
+    "CourseLength": "3 years",
+    "CourseDescription": "This course is designed to equip you with the skills and knowledge to develop computer-based solutions to business problems. You will gain a wide range of skills in the areas of programming, systems development, web, databases, networking, project management, big data and cloud computing. You will also develop a range of transferable skills such as communication, team working, problem solving and project management.",
+    "CourseImage": "https://www.bcu.ac.uk/images/default-source/course-images/undergraduate/computer-science.jpg?sfvrsn=2",
+    "CourseURL": "https://www.bcu.ac.uk/courses/computer-science-bsc-hons-2018-19",
+    "Units": [
+        {
+            "Code": "COMP10120",
+            "Name": "First Year Team Project",
+            "Credits": 20,
+            "preReqs": [],
+            "semester": 1,
+            "Mandatory": true
+        },
+        {
+            "Code": "COMP11120",
+            "Name": "Mathematical Techniques for Computer Science",
+            "Credits": 20,
+            "Year": 1,
+            "preReqs": [],
+            "Mandatory": true
+        },
+        {
+            "Code": "COMP11212",
+            "Name": "Fundamentals of Computation",
+            "Credits": 10,
+            "Year": 1,
+            "preReqs": [],
+            "Mandatory": true
+        },
+        {
+            "Code": "COMP12111",
+            "Name": "Fundamentals of Computer Engineering",
+            "Credits": 10,
+            "Year": 1,
+            "preReqs": [],
+            "Mandatory": true
+        },
+        {
+            "Code": "COMP13212",
+            "Name": "Data Science",
+            "Credits": 10,
+            "Year": 1,
+            "preReqs": [],
+            "Mandatory": true
+        },
+        {
+            "Code": "COMP15111",
+            "Name": "Fundamentals of Computer Architecture",
+            "Credits": 10,
+            "Year": 1,
+            "preReqs": [],
+            "Mandatory": true
+        },
+        {
+            "Code": "COMP15212",
+            "Name": "Operating Systems",
+            "Credits": 10,
+            "Year": 1,
+            "preReqs": [],
+            "Mandatory": true
+        },
+        {
+            "Code": "COMP16321",
+            "Name": "Introduction to Programming 1",
+            "Credits": 10,
+            "Year": 1,
+            "preReqs": [],
+            "Mandatory": true
+        },
+        {
+            "Code": "COMP16412",
+            "Name": "Introduction to Programming 2",
+            "Credits": 20,
+            "Year": 1,
+            "preReqs": [],
+            "Mandatory": true
+        },
+        {
+            "Code": "COMP23311",
+            "Name": "Software Engineering 1",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": ["COMP16321","COMP16412"],
+            "Mandatory": true
+        },
+        {
+            "Code": "COMP23412",
+            "Name": "Software Engineering 2",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": ["COMP23311"],
+            "Mandatory": true
+        },
+        {
+            "Code": "COMP26020",
+            "Name": "Programming Languages & Paradigms",
+            "Credits": 20,
+            "Year": 2,
+            "preReqs": ["COMP16321","COMP16412"],
+            "Mandatory": true
+        },
+        {
+            "Code": "COMP26120",
+            "Name": "Algorithms and Data Structures",
+            "Credits": 20,
+            "Year": 2,
+            "preReqs": ["COMP16321","COMP16412"],
+            "Mandatory": true
+        },
+        {
+            "Code": "COMP2CARS",
+            "Name": "COMP - Careers Yr 2",
+            "Credits": 0,
+            "Year": 2,
+            "preReqs": [],
+            "Mandatory": true
+        },
+        {
+            "Code": "BMAN10011",
+            "Name": "Fundamentals of Management",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": [],
+            "Mandatory": false
+        },
+        {
+            "Code": "BMAN10252",
+            "Name": "Fundamentals of Technological Change",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": [],
+            "Mandatory": false
+        },{
+            "Code": "BMAN10552",
+            "Name": "Fundamentals of Finance",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": [],
+            "Mandatory": false
+        },
+        {
+            "Code": "BMAN10612",
+            "Name": "Business Economics",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": [],
+            "Mandatory": false
+        },
+        {
+            "Code": "BMAN10621B",
+            "Name": "Fundamentals of Financial Reporting B",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": [],
+            "Mandatory": false
+        },
+        {
+            "Code": "BMAN10632",
+            "Name": "Fundamentals of Management Accounting",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": ["BMAN10621B"],
+            "Mandatory": false
+        },
+        {
+            "Code": "BMAN20242",
+            "Name": "Introduction to Corporate Finance and Financial Instruments",
+            "Credits": 10,
+            "Year": 2.5,
+            "preReqs": ["BMAN10621B"],
+            "Mandatory": false
+        },
+        {
+            "Code": "BMAN20792",
+            "Name": "Technology, Strategy and Innovation",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": [],
+            "Mandatory": false
+        },
+        {
+            "Code": "BMAN20811",
+            "Name": "Managing Business Operations",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": [],
+            "Mandatory": false
+        },
+        {
+            "Code": "BMAN20821",
+            "Name": "New Product Development and Innovation",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": [],
+            "Mandatory": false
+        },
+        {
+            "Code": "BMAN20832",
+            "Name": "Marketing",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": [],
+            "Mandatory": false
+        },
+        {
+            "Code": "BMAN21012",
+            "Name": "Global Contexts of Business and Management",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": [],
+            "Mandatory": false
+        },
+        {
+            "Code": "BMAN24501",
+            "Name": "Chinese Business",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": [],
+            "Mandatory": false
+        },
+        {
+            "Code": "BMAN24521",
+            "Name": "Organisations and Employment",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": [],
+            "Mandatory": false
+        },
+        {
+            "Code": "COMP21111",
+            "Name": "Logic and Modelling",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": [],
+            "Mandatory": false
+        },
+        {
+            "Code": "COMP22111",
+            "Name": "Processor Microarchitecture",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": ["COMP12111"],
+            "Mandatory": false
+        },
+        {
+            "Code": "COMP22712",
+            "Name": "Microcontrollers",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": ["COMP15111"],
+            "Mandatory": false
+        },
+        {
+            "Code": "COMP23111",
+            "Name": "Database Systems",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": [],
+            "Mandatory": false
+        },
+        {
+            "Code": "COMP24011",
+            "Name": "Introduction to AI",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": ["COMP11120","COMP13212"],
+            "Mandatory": false
+        },
+        {
+            "Code": "COMP25212",
+            "Name": "System Architecture",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": ["COMP15111"],
+            "Mandatory": false
+        },
+        {
+            "Code": "COMP27112",
+            "Name": "Introduction to Visual Computing",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": [],
+            "Mandatory": false
+        },
+        {
+            "Code": "COMP28112",
+            "Name": "Distributed Systems",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": ["COMP16412","COMP15212"],
+            "Mandatory": false
+        },
+        {
+            "Code": "ULAR51002",
+            "Name": "Introduction to LEAP Arabic (A1.1)",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": [],
+            "Mandatory": false
+        },
+        {
+            "Code": "ULBS50001",
+            "Name": "LEAP BSL Part 1 (A1.1)",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": [],
+            "Mandatory": false
+        },
+        {
+            "Code": "ULBS50002",
+            "Name": "LEAP BSL Part 1 Semester 2 (A1.1)",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": [],
+            "Mandatory": false
+        },
+        {
+            "Code": "ULBS51002",
+            "Name": "LEAP BSL Part 2 (A1)",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": [],
+            "Mandatory": false
+        },
+        {
+            "Code": "ULCH51002",
+            "Name": "LEAP Introduction to Chinese (A1.1)",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": [],
+            "Mandatory": false
+        },
+        {
+            "Code": "ULFR51002",
+            "Name": "LEAP Introduction to French (A1.1)",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": [],
+            "Mandatory": false
+        },{
+            "Code": "ULGE51002",
+            "Name": "LEAP Introduction to German (A1.1)",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": [],
+            "Mandatory": false
+        },{
+            "Code": "ULJA51002",
+            "Name": "LEAP Introduction to Japanese (A1.1)",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": [],
+            "Mandatory": false
+        },{
+            "Code": "ULSP10021",
+            "Name": "Introductory Spanish",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": [],
+            "Mandatory": false
+        },{
+            "Code": "ULSP51002",
+            "Name": "LEAP Introduction to Spanish (A1.1)",
+            "Credits": 10,
+            "Year": 2,
+            "preReqs": [],
+            "Mandatory": false
+        },
+
+        {
+            "Code": "COMP30040",
+            "Name": "Third Year Project Laboratory",
+            "Credits": 40,
+            "Year": 3,
+            "preReqs": [],
+            "Mandatory": true
+        }
+
+
+
+
+    ]
+}
